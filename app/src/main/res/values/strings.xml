@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login_Alisa</string>
+    <string name="hint_login">ЛОГИН</string>
+    <string name="hint_Password">ПАРОЛЬ</string>
+    <string name="login_input_error">ОШИБКА ВВОДА ДАННЫХ</string>
+
+
+</resources>
